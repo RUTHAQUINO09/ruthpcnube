@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #cfacac;
     margin: 0;
     padding: 0;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 500px;
     margin: 50px auto;
-    background-color: #fff;
+    background-color: #c08888;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -36,7 +36,7 @@ input[type="text"] {
 }
 
 button {
-    background-color: #007bff;
+    background-color: hsl(305, 61%, 66%);
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #e797bf;
 }
 
 .modal {
